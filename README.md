@@ -1,3 +1,3 @@
 # demo-github
-My first git repository
+My first git repository.
 Author - Shruti sinha 
